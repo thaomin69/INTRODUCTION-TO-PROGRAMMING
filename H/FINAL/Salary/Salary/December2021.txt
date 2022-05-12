@@ -1,0 +1,12 @@
+DailyEmployee: John Walker
+   DailyPayment=100$; TotalDays=28
+DailyEmployee: Lyndsea Carlie
+   DailyPayment=120$; TotalDays=10
+HourlyEmployee: Rachyl Napier
+   HourlyPayment=15$; TotalHours=1200
+HourlyEmployee: Romaine Donna
+   HourlyPayment=15$; TotalHours=1200
+DailyEmployee: Peter Abram
+   DailyPayment=120$; TotalDays=10
+HourlyEmployee: Clarinda Hyram
+   HourlyPayment=15$; TotalHours=1200

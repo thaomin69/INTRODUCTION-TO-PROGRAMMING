@@ -1,0 +1,8 @@
+CS161
+Introduction to Programming
+2
+20127412,Nguyen Thi Minh Thao,8,Dong Nai,2002-09-06
+20127329,Bui Quang Thanh,9,Thanh pho Ho Chi Minh,2002-09-17
+Open
+50 
+1

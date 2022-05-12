@@ -1,0 +1,24 @@
+
+----------------------------- INFORMATION OF COURSE -----------------------------
+ID Course: CS161
+Name Course: Introduction to Programming
+Information of students in the course: 
+
+------------------- THE INFOMATION OF STUDENT 1 -------------------
+ID: 20127329
+Full name: Bui Quang Thanh
+GPA: 9
+Address: Thanh pho Ho Chi Minh
+DOB: 2002-9-17
+
+------------------- THE INFOMATION OF STUDENT 2 -------------------
+ID: 20127412
+Full name: Nguyen Thi Minh Thao
+GPA: 8
+Address: Dong Nai
+DOB: 2002-9-6
+
+Status of the course: Open
+The maximum number of students in the course: 50
+The minimum number of students in the course: 1
+-------------------------------------------------------------------------------------
